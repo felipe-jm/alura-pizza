@@ -1,0 +1,17 @@
+html {
+  background-color: #292929;
+}
+
+.App {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.banner-container img {
+  width: 100%;
+}
+
+.logo-container {
+  text-align: center;
+}
